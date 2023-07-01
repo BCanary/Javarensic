@@ -1,0 +1,4 @@
+fake_useragent
+jsbeautifier
+requests
+beautifulsoup4
