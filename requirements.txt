@@ -1,3 +1,4 @@
+jsbeautifier
 fake_useragent
 requests
 beautifulsoup4
